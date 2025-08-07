@@ -1,0 +1,14 @@
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\obj\Debug\net8.0\Faraz_Project_Edition_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\obj\Debug\net8.0\Faraz_Project_Edition_2.AssemblyInfoInputs.cache
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\obj\Debug\net8.0\Faraz_Project_Edition_2.AssemblyInfo.cs
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\obj\Debug\net8.0\Faraz_Project_Edition_2.csproj.CoreCompileInputs.cache
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\bin\Debug\net8.0\Faraz_Project_Edition_2.exe
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\bin\Debug\net8.0\Faraz_Project_Edition_2.deps.json
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\bin\Debug\net8.0\Faraz_Project_Edition_2.runtimeconfig.json
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\bin\Debug\net8.0\Faraz_Project_Edition_2.dll
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\bin\Debug\net8.0\Faraz_Project_Edition_2.pdb
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\obj\Debug\net8.0\Faraz_Project_Edition_2.dll
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\obj\Debug\net8.0\refint\Faraz_Project_Edition_2.dll
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\obj\Debug\net8.0\Faraz_Project_Edition_2.pdb
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\obj\Debug\net8.0\Faraz_Project_Edition_2.genruntimeconfig.cache
+G:\Programming\C#\Faraz_Project\Faraz_Project_Edition_2\Faraz_Project_Edition_2\obj\Debug\net8.0\ref\Faraz_Project_Edition_2.dll
