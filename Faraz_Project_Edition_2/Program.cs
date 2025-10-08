@@ -7,8 +7,8 @@ string userName = "Milad__0";
 string password = "12345678";
 int age = 21;
 string gender = "Male";
-long mobileNumber = 9016414358;
-string birthDay = "1382,5,3";
+long mobileNumber = ;
+string birthDay = "  ";
 long balance = 0;
 Console.WriteLine("Welcome to Milad Bank" + "\n");
 
@@ -280,4 +280,5 @@ while (true)
             break;
             
     }
+
 }
